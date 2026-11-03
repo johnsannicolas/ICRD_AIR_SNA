@@ -2,5 +2,5 @@
 This repository facilitates data sharing and enrichment for ICRD's AIR-SNA project. The objectives of AIR-SNA are twofold. First, mapping out the *events* that center around artificial intelligence and religion, and second tracking which themes these events touch on over time.
 ## Guide to the repository
 There are several folders that host the two prongs of the AIR-SNA project.
-First, the Social Network Analysis ([SNA](https://github.com/johnsannicolas/ICRD_AIR_SNA/tree/main/SNA)) folder includes the most recent export of the nodes (people, organizations, and events) and edges (connections between nodes).
-Second, the Thematic Network Analysis (TNA) folder is home to data relating to tracking themes, topics, and attitudes expressed by pre-event information, e.g., event schedules and webpages.
+First, the Social Network Analysis ([SNA](https://github.com/johnsannicolas/ICRD_AIR_SNA/tree/main/SNA)) folder includes the most recent export of the nodes (people, organizations, and events) and edges (connections between nodes). This folder also has the latest visualization of the AIR social network.
+Second, the Thematic Network Analysis ([TNA](https://github.com/johnsannicolas/ICRD_AIR_SNA/tree/main/TNA)) folder is home to data relating to tracking themes, concepts, and attitudes expressed by pre-event information, e.g., event schedules and webpages. This directory also hosts the latest visualization of the AIR thematic network.
